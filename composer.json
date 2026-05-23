@@ -1,0 +1,8 @@
+{
+    "name": "yma912/tma-backend",
+    "description": "YMA912 ESSLCE TMA webhook backend",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    }
+}
